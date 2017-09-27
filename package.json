@@ -1,5 +1,5 @@
 {
-  "name": "next",
+  "name": "next-react-16",
   "version": "3.2.2",
   "description": "Minimalistic framework for server-rendered React applications",
   "main": "./dist/server/next.js",
