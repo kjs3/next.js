@@ -43,7 +43,7 @@
     ]
   },
   "lint-staged": {
-    "*.js": "standard",
+    "{bench,client,!dist,examples,lib,pages,server,text}/**/*.js": "standard",
     "bin/*": "standard"
   },
   "dependencies": {
